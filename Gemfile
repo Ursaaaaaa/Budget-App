@@ -67,10 +67,10 @@ end
 group :test do
   # Use system testing [https://guides.rubyonrails.org/testing.html#system-testing]
   gem 'capybara'
+  gem 'rails-helper'
   gem 'rspec-rails'
   gem 'selenium-webdriver'
   gem 'webdrivers'
-  gem 'rails-helper'
 end
 
 # Devise
@@ -82,6 +82,6 @@ gem 'cancancan'
 # Testing
 gem 'rails-controller-testing'
 
-#ffi
+# ffi
 
 gem 'ffi'
