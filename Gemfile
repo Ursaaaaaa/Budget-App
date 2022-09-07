@@ -70,6 +70,7 @@ group :test do
   gem 'rspec-rails'
   gem 'selenium-webdriver'
   gem 'webdrivers'
+  gem 'rails-helper'
 end
 
 # Devise
@@ -80,3 +81,7 @@ gem 'devise'
 gem 'cancancan'
 # Testing
 gem 'rails-controller-testing'
+
+#ffi
+
+gem 'ffi'
