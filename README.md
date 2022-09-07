@@ -11,7 +11,7 @@ To get a local copy up and running follow these simple example steps.
 - Get the directory that you want to clone the repository.
 - Open the command prompt in this directory.
 - Write `https://github.com/ramrod433/Budget-App.git`.
-- Go to the repository folder in your command prompt `cd my-pocket`.
+- Go to the repository folder in your command prompt `cd Budget-App`.
 
 - Follow these steps to run the app:
   - run `gem install`, then run `rails s`
