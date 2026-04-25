@@ -22,11 +22,6 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Nii Amanor Djoleto**
-
-- GitHub: [@ramrod433](https://github.com/ramrod433)
-- Twitter: [@\_Djoleto](https://twitter.com/_djoleto_)
-- LinkedIn: [Nii Amanor Djoleto](https://linkedin.com/in/nii-amanor-djoleto)
 
 
 ## 🤝 Contributing
